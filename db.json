@@ -1,0 +1,36 @@
+{
+  "tasks": [
+    {
+      "id": "44bb8ec4-6497-45e7-8a0d-eac763787ca9",
+      "title": "Read a book",
+      "description": " Read at least 4 chapters of a book",
+      "completed_at": null,
+      "created_at": "4/5/2023",
+      "updated_at": "4/5/2023"
+    },
+    {
+      "id": "51c2fd59-8ff4-4909-bbc8-ee5f47c74b50",
+      "title": "Pet the cat",
+      "description": " The name says it all",
+      "completed_at": null,
+      "created_at": "4/5/2023",
+      "updated_at": "4/5/2023"
+    },
+    {
+      "id": "30bde2cb-3034-4249-a64f-393025c1ede6",
+      "title": "Clean the office",
+      "description": " Clean the entire office and equipaments",
+      "completed_at": null,
+      "created_at": "4/5/2023",
+      "updated_at": "4/5/2023"
+    },
+    {
+      "id": "b50772d8-782e-442d-bbda-7771501bbfe6",
+      "title": "Nap",
+      "description": " Take a name in the lunch time",
+      "completed_at": null,
+      "created_at": "4/5/2023",
+      "updated_at": "4/5/2023"
+    }
+  ]
+}
